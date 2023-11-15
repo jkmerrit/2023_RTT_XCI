@@ -1,5 +1,5 @@
 # 2023_RTT_XCI
-## &copy Jonathan Merritt 2023
+## &copy; Jonathan Merritt 2023
 ### R code for modeling progression of clinical severity in Rett Syndrome
 
 This repository contains relevent R code and output in Jupyter notebooks 
