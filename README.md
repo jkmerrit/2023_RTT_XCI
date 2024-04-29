@@ -5,6 +5,10 @@
 This repository contains relevent R code in Jupyter notebooks 
 and serves as a supplement to the following publication:
 
+"Normalized clinical severity scores reveal a correlation 
+between X chromosome inactivation and disease severity in Rett 
+Syndrome"
+
 Any comments or questions should be directed to Jonathan Merritt
 at jonathan.merritt@vumc.org
 
